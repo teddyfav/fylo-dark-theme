@@ -69,9 +69,9 @@ main {
 header {
   background-image: url("images/illustration-intro.png");
   background-repeat: no-repeat;
-  background-size: 50%;
-  background-position: top 14.5rem center;
-  height: 55rem;
+  background-size: 40%;
+  background-position: top 13.5rem center;
+  height: 50rem;
   max-height: 100%;
   background-color: var(--dark-blue);
   width: 100%;
@@ -83,8 +83,8 @@ header {
   background-position: center;
   background-size: 90%;
   max-width: 100%;
-  width: 14rem;
-  height: 7rem;
+  width: 12rem;
+  height: 6rem;
 }
 
 nav {
@@ -92,14 +92,14 @@ nav {
   justify-content: space-between;
   align-items: center;
   text-align: center;
-  padding: 3.8rem 5.2rem;
+  padding: 2rem;
 }
 
 .menu {
   flex-direction: row;
-  font-size: 1.1rem;
-  gap: 4.3rem;
-  font-weight: 400;
+  font-size: 1rem;
+  gap: 1.3rem;
+  font-weight: 200;
   margin-right: 0.4rem;
 }
 .menu li {
